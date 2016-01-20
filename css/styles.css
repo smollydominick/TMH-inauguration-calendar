@@ -1,0 +1,27 @@
+#title h1 {text-align:center;
+			font-family: 'Josefin Slab', serif;
+			font-size:55px;
+			font-weight:700;}
+
+#tmh p {text-align:center;}
+
+#tmh {text-align:center;}
+
+.icon {text-align:center;
+		margin-left:auto;
+		margin-right:auto;
+		display:inline-block;}
+
+#january p {text-align:center;
+			font-family: 'Josefin Slab', serif;
+			font-size:30px;}
+
+.date p {font-size:20px;
+			font-weight:600;}
+
+.time {
+			font-weight:700;
+			font-size:13px;}
+
+.eventname {font-family: 'Josefin Slab', serif;
+			font-size:20px;}
